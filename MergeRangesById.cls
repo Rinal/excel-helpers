@@ -1,3 +1,7 @@
+' Select 2 ranges and copy them into a separate sheet. Sort data based on the ID column
+
+
+
 Sub MergeRangesByID_OneIDColumn()
     Dim range1 As Range, range2 As Range
     Dim wsNew As Worksheet
